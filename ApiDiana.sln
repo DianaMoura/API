@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDiana", "ApiDiana\ApiDiana.csproj", "{5B72AAB7-1CB0-46E0-9D30-6CE113A0F55F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B72AAB7-1CB0-46E0-9D30-6CE113A0F55F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B72AAB7-1CB0-46E0-9D30-6CE113A0F55F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B72AAB7-1CB0-46E0-9D30-6CE113A0F55F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B72AAB7-1CB0-46E0-9D30-6CE113A0F55F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {906014EE-C00C-4BC0-983F-4E503204A6FB}
+	EndGlobalSection
+EndGlobal
